@@ -1,0 +1,1 @@
+var WebGL=Laya.WebGL,Stage=Laya.Stage,Sprite=Laya.Sprite,Handler=Laya.Handler,Dictonary=Laya.Dictionary,Point=Laya.Point,Tween=Laya.Tween,Rectangle=Laya.Rectangle,Texture=Laya.Texture,Animation=Laya.Animation,Pool=Laya.Pool,SoundManager=Laya.SoundManager,Browser=Laya.Browser,Cof=function(){function a(){}return a.DesinWidth=1136,a.DesinHeight=640,a}();

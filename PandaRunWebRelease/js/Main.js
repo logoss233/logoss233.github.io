@@ -1,0 +1,1 @@
+var Main=function(){function t(){this.game=new Game,Laya.stage.addChild(this.game),this.game.on("restart",this,this.restart),this.game.start();var t=new OpenView;Laya.stage.addChild(t),t.zOrder=1e3}return t.prototype.restart=function(){this.game.destroy(),this.game=new Game,Laya.stage.addChild(this.game),this.game.on("restart",this,this.restart),this.game.start()},t}();
